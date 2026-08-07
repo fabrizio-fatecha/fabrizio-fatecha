@@ -91,9 +91,7 @@ A mobile-first platform created for customs agents to digitalize documentation a
 
 **Tech Stack**
 
-```text
-Flutter
-```
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 🔗 Live Demo: https://duties-website.netlify.app
 
