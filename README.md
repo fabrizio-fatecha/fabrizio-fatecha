@@ -140,17 +140,6 @@ Instituto Superior de Idiomas del Ministerio de Defensa Paraguayo
 
 ---
 
-## GitHub Analytics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fabrizio-fatecha\&show_icons=true\&hide_border=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fabrizio-fatecha\&layout=compact\&hide_border=true\&theme=tokyonight)
-
-</div>
-
----
 
 ## Connect With Me
 
