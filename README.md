@@ -24,6 +24,95 @@ I enjoy solving complex business problems through clean architecture, automation
 
 ---
 
+## 📂 Repository Explorer
+
+Explore my projects by category:
+
+<details>
+<summary>🚀 Backend Engineering & APIs</summary>
+
+<br>
+
+| Repository | Description | Stack |
+|---|---|---|
+| [nestjs](https://github.com/fabrizio-fatecha/nestjs) | NestJS experiments, backend patterns and API development | TypeScript · NestJS |
+| [node-server](https://github.com/fabrizio-fatecha/node-server) | Understanding HTTP requests and server communication | JavaScript · Node.js |
+| [docker](https://github.com/fabrizio-fatecha/docker) | Docker experiments and containerization practices | Docker · TypeScript |
+| [typescript](https://github.com/fabrizio-fatecha/typescript) | TypeScript learning and experiments | TypeScript |
+
+</details>
+
+
+<details>
+<summary>☁️ Cloud, Infrastructure & DevOps</summary>
+
+<br>
+
+| Repository | Description | Stack |
+|---|---|---|
+| [nginx](https://github.com/fabrizio-fatecha/nginx) | NGINX configuration and server fundamentals | NGINX |
+| [git](https://github.com/fabrizio-fatecha/git) | Git and GitHub version control practices | Git |
+| [docker](https://github.com/fabrizio-fatecha/docker) | Containerization and deployment experiments | Docker |
+
+</details>
+
+
+<details>
+<summary>📱 Mobile Development</summary>
+
+<br>
+
+| Repository | Description | Stack |
+|---|---|---|
+| [duties](https://github.com/fabrizio-fatecha/duties) | Customs documentation mobile platform | Flutter |
+| [flutter](https://github.com/fabrizio-fatecha/flutter) | Flutter learning projects and experiments | Dart · Flutter |
+
+</details>
+
+
+<details>
+<summary>🏢 Business Applications & Full Stack Projects</summary>
+
+<br>
+
+| Repository | Description | Stack |
+|---|---|---|
+| [customs-agency](https://github.com/fabrizio-fatecha/customs-agency) | Customs agency web platform | JavaScript |
+| [real-state-agency](https://github.com/fabrizio-fatecha/real-state-agency) | Real estate management platform | TypeScript |
+| [shoes-agency](https://github.com/fabrizio-fatecha/shoes-agency) | E-commerce style landing platform | TypeScript |
+| [portfolio](https://github.com/fabrizio-fatecha/portfolio) | Personal developer portfolio | JavaScript |
+
+</details>
+
+
+<details>
+<summary>🤖 Programming & Learning</summary>
+
+<br>
+
+| Repository | Description | Stack |
+|---|---|---|
+| [javascript](https://github.com/fabrizio-fatecha/javascript) | JavaScript fundamentals and exercises | JavaScript |
+| [python](https://github.com/fabrizio-fatecha/python) | Python experiments and learning projects | Python |
+| [cs](https://github.com/fabrizio-fatecha/cs) | C# learning repository | C# |
+| [leetcode](https://github.com/fabrizio-fatecha/leetcode) | Algorithm challenges and problem solving | JavaScript |
+
+</details>
+
+
+<details>
+<summary>🔐 Cybersecurity & Research</summary>
+
+<br>
+
+| Repository | Description | Stack |
+|---|---|---|
+| [awesome-shodan-queries](https://github.com/fabrizio-fatecha/awesome-shodan-queries) | Collection of interesting Shodan search queries | Cybersecurity Research |
+
+</details>
+
+---
+
 ## Tech Stack
 
 ### Languages
