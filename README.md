@@ -127,16 +127,28 @@ Instituto Superior de Idiomas del Ministerio de Defensa Paraguayo
 
 ## Certifications
 
-* Microsoft Azure Administrator Associate
-* Serverless Framework Guide: API Gateway, AWS & Node.js
-* NGINX Fundamentals
-* Learn Oracle PL/SQL from Scratch
-* Python Total
-* Odoo Development
-* Linux Server Administration
-* API First
-* Clean Code with JavaScript
-* Prompt Engineering
+### ☁️ Cloud & Infrastructure
+
+- Microsoft Azure Administrator Associate — [Udemy]
+- Serverless Framework Guide: API Gateway, AWS & Node.js — [Udemy]
+- NGINX Fundamentals: High Performance Servers from Scratch — [Udemy]
+- Linux Server Sysadmin Course — [Platzi]
+
+### 💻 Development & Programming
+
+- Python TOTAL - Advanced Programmer in 16 Days — [Udemy]
+- Learn Oracle PL/SQL from Scratch — [Udemy]
+- Odoo: Complete Development Course for Programmers — [Udemy]
+- GIT + GitHub: A Complete Version Control System from Scratch — [Udemy]
+- JavaScript Fundamentals — [Platzi]
+- Clean Code and Good Practices with JavaScript Course — [Platzi]
+- Flutter Course — [Platzi]
+
+### 🌐 Architecture & Modern Technologies
+
+- API First Course — [Platzi]
+- Prompt Engineering Course — [Platzi]
+- Internet Computer Networks Course — [Platzi]
 
 ---
 
