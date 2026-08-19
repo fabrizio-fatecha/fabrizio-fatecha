@@ -18,7 +18,7 @@
 
 I'm a software developer with **3+ years of experience** building scalable applications, REST APIs, and cloud-native solutions.
 
-My main focus is backend development with **Node.js**, **NestJS**, and **PostgreSQL**, but I enjoy working across the entire stack whenever the project requires it. I have experience deploying applications to both **Azure** and **AWS**, designing reliable architectures, optimizing performance, and delivering production-ready software.
+My main focus is backend development with **Python**, **Node.js**, and **PostgreSQL**, but I enjoy working across the entire stack whenever the project requires it. I have experience deploying applications to both **Azure** and **AWS**, designing reliable architectures, optimizing performance, and delivering production-ready software.
 
 I enjoy solving complex business problems through clean architecture, automation, and maintainable code.
 
