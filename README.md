@@ -2,8 +2,6 @@
 
 <div align="center">
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzlmN3hkNno4ZXVxanFjZ2piam14aGI1NWJ4NmE5ZXI3aXB4cnZvZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vnGlErQHuF9BK/giphy.gif" width="450" alt="Welcome Gif"/>
-
 ### Developer | Backend Engineer | Cloud Enthusiast
 
 📍 Asunción, Paraguay 🇵🇾
