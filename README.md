@@ -16,9 +16,25 @@
 
 I'm a software developer with **3+ years of experience** building scalable applications, REST APIs, and cloud-native solutions.
 
-My main focus is backend development with **Python**, **Node.js**, and **PostgreSQL**, but I enjoy working across the entire stack whenever the project requires it. I have experience deploying applications to both **Azure** and **AWS**, designing reliable architectures, optimizing performance, and delivering production-ready software.
+My main focus is backend development with **Python**, **Node.js**, **Java**, and **PostgreSQL**, but I enjoy working across the entire stack whenever the project requires it. I have experience deploying applications to both **Azure** and **AWS**, designing reliable architectures, optimizing performance, and delivering production-ready software.
+
+I work with **Java from version 8 up to 21** and **Spring Boot**, from maintaining established codebases to building new services on the latest LTS.
 
 I enjoy solving complex business problems through clean architecture, automation, and maintainable code.
+
+---
+
+## 🔥 Featured Project
+
+### core: Stateless Read-Only API (Java 21 · Spring Boot · PostgreSQL)
+
+A production-style REST API that I run on **AWS EC2**, fully containerized with **Docker** (nginx + Spring Boot + PostgreSQL).
+
+- Serves a catalog of **50 million products** using **keyset pagination** with HMAC-signed cursors, so deep pages cost the same as the first one (no `OFFSET`, no `COUNT(*)`)
+- **Stateless** by design: no sessions, so it can scale horizontally
+- Hardened following **OWASP API Security** practices: deny-by-default routing, a least-privilege read-only database role, query timeouts, rate limiting at the edge, and a distroless non-root image
+- Documented with **OpenAPI / Swagger UI**
+- Built on **Java 21** with virtual threads and records
 
 ---
 
@@ -118,6 +134,7 @@ Explore my projects by category:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java_8--21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
@@ -125,6 +142,7 @@ Explore my projects by category:
 ### Frameworks
 
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
