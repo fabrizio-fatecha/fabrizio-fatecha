@@ -18,8 +18,6 @@ I'm a software developer with **3+ years of experience** building scalable appli
 
 My main focus is backend development with **Python**, **Node.js**, **Java**, and **PostgreSQL**, but I enjoy working across the entire stack whenever the project requires it. I have experience deploying applications to both **Azure** and **AWS**, designing reliable architectures, optimizing performance, and delivering production-ready software.
 
-I work with **Java from version 8 up to 21** and **Spring Boot**, from maintaining established codebases to building new services on the latest LTS.
-
 I enjoy solving complex business problems through clean architecture, automation, and maintainable code.
 
 ---
@@ -30,7 +28,7 @@ I enjoy solving complex business problems through clean architecture, automation
 
 A production-style REST API that I run on **AWS EC2**, fully containerized with **Docker** (nginx + Spring Boot + PostgreSQL).
 
-- Serves a catalog of **50 million products** using **keyset pagination** with HMAC-signed cursors, so deep pages cost the same as the first one (no `OFFSET`, no `COUNT(*)`)
+- Serves a catalog of **50 million products**, each identified by a plain numeric row number, using **keyset pagination** so deep pages cost the same as the first one (no `OFFSET`, no `COUNT(*)`)
 - **Stateless** by design: no sessions, so it can scale horizontally
 - Hardened following **OWASP API Security** practices: deny-by-default routing, a least-privilege read-only database role, query timeouts, rate limiting at the edge, and a distroless non-root image
 - Documented with **OpenAPI / Swagger UI**
@@ -66,6 +64,8 @@ Explore my projects by category:
 | [nginx](https://github.com/fabrizio-fatecha/nginx) | NGINX configuration and server fundamentals | NGINX |
 | [git](https://github.com/fabrizio-fatecha/git) | Git and GitHub version control practices | Git |
 | [docker](https://github.com/fabrizio-fatecha/docker) | Containerization and deployment experiments | Docker |
+| [aws-tricks](https://github.com/fabrizio-fatecha/aws-tricks) | Shell script that lists the resources of an AWS account across regions | Shell · AWS CLI |
+| [minecraft-servers](https://github.com/fabrizio-fatecha/minecraft-servers) | Docker-based Minecraft server scripts for speedrunning with friends | Shell · Docker |
 
 </details>
 
@@ -122,6 +122,7 @@ Explore my projects by category:
 | Repository | Description | Stack |
 |---|---|---|
 | [awesome-shodan-queries](https://github.com/fabrizio-fatecha/awesome-shodan-queries) | Collection of interesting Shodan search queries | Cybersecurity Research |
+| [SecOps-Google-Dork-Collection](https://github.com/fabrizio-fatecha/SecOps-Google-Dork-Collection) | Fork of a Google Dorks collection for threat hunting, bug bounty and pentesting | Cybersecurity Research |
 
 </details>
 
@@ -170,36 +171,36 @@ Explore my projects by category:
 - Microsoft Azure Administrator Associate (AZ-104) — [Udemy]
 - Serverless Framework Guide: API Gateway, AWS & Node.js — [Udemy]
 - NGINX Fundamentals: High Performance Servers from Scratch — [Udemy]
-- Curso de Introducción a la Administración de Servidores Linux — [Platzi]
+- Introduction to Linux Server Administration Course — [Platzi]
 
 ### 💻 Development & Programming
 
-- Curso de Programación Orientada a Objetos con C# — [Platzi]
-- Curso Básico de Programación con C# — [Platzi]
-- Curso de Backend con NestJS — [Platzi]
-- Curso de TypeScript — [Platzi]
-- Curso de Fundamentos de JavaScript — [Platzi]
-- Curso de Clean Code y Buenas Prácticas con JavaScript — [Platzi]
-- Curso de Fundamentos de Python — [Platzi]
+- Object-Oriented Programming with C# Course — [Platzi]
+- Basic Programming with C# Course — [Platzi]
+- Backend with NestJS Course — [Platzi]
+- TypeScript Course — [Platzi]
+- JavaScript Fundamentals Course — [Platzi]
+- Clean Code and Best Practices with JavaScript Course — [Platzi]
+- Python Fundamentals Course — [Platzi]
 - Python TOTAL - Advanced Programmer in 16 Days — [Udemy]
-- Aprende Oracle PL/SQL desde Cero — [Udemy]
-- Odoo: Curso de desarrollo completo para programadores — [Udemy]
+- Learn Oracle PL/SQL from Scratch — [Udemy]
+- Odoo: Complete Development Course for Programmers — [Udemy]
 - Git + GitHub: A Complete Version Control System from Scratch — [Udemy]
-- Curso de Flutter — [Platzi]
+- Flutter Course — [Platzi]
 
 ### 🌐 Architecture & Modern Technologies
 
-- Curso de API First — [Platzi]
-- Curso de Redes Informáticas de Internet — [Platzi]
+- API First Course — [Platzi]
+- Internet Computer Networks Course — [Platzi]
 - HL7 FHIR Mastery: A Course for Newbies and Pros — [Udemy]
-- Curso de Claude Code — [Platzi]
-- Curso de Prompt Engineering — [Platzi]
+- Claude Code Course — [Platzi]
+- Prompt Engineering Course — [Platzi]
 
 ### 💼 Business & Career
 
-- Curso de Modelos de Negocio — [Platzi]
-- Curso de Marketing Digital — [Platzi]
-- Cómo Conseguir Trabajo en Programación — [Platzi]
+- Business Models Course — [Platzi]
+- Digital Marketing Course — [Platzi]
+- How to Get a Job in Programming — [Platzi]
 
 ---
 
