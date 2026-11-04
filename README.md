@@ -167,26 +167,39 @@ Explore my projects by category:
 
 ### ☁️ Cloud & Infrastructure
 
-- Microsoft Azure Administrator Associate — [Udemy]
+- Microsoft Azure Administrator Associate (AZ-104) — [Udemy]
 - Serverless Framework Guide: API Gateway, AWS & Node.js — [Udemy]
 - NGINX Fundamentals: High Performance Servers from Scratch — [Udemy]
-- Linux Server Sysadmin Course — [Platzi]
+- Curso de Introducción a la Administración de Servidores Linux — [Platzi]
 
 ### 💻 Development & Programming
 
+- Curso de Programación Orientada a Objetos con C# — [Platzi]
+- Curso Básico de Programación con C# — [Platzi]
+- Curso de Backend con NestJS — [Platzi]
+- Curso de TypeScript — [Platzi]
+- Curso de Fundamentos de JavaScript — [Platzi]
+- Curso de Clean Code y Buenas Prácticas con JavaScript — [Platzi]
+- Curso de Fundamentos de Python — [Platzi]
 - Python TOTAL - Advanced Programmer in 16 Days — [Udemy]
-- Learn Oracle PL/SQL from Scratch — [Udemy]
-- Odoo: Complete Development Course for Programmers — [Udemy]
-- GIT + GitHub: A Complete Version Control System from Scratch — [Udemy]
-- JavaScript Fundamentals — [Platzi]
-- Clean Code and Good Practices with JavaScript Course — [Platzi]
-- Flutter Course — [Platzi]
+- Aprende Oracle PL/SQL desde Cero — [Udemy]
+- Odoo: Curso de desarrollo completo para programadores — [Udemy]
+- Git + GitHub: A Complete Version Control System from Scratch — [Udemy]
+- Curso de Flutter — [Platzi]
 
 ### 🌐 Architecture & Modern Technologies
 
-- API First Course — [Platzi]
-- Prompt Engineering Course — [Platzi]
-- Internet Computer Networks Course — [Platzi]
+- Curso de API First — [Platzi]
+- Curso de Redes Informáticas de Internet — [Platzi]
+- HL7 FHIR Mastery: A Course for Newbies and Pros — [Udemy]
+- Curso de Claude Code — [Platzi]
+- Curso de Prompt Engineering — [Platzi]
+
+### 💼 Business & Career
+
+- Curso de Modelos de Negocio — [Platzi]
+- Curso de Marketing Digital — [Platzi]
+- Cómo Conseguir Trabajo en Programación — [Platzi]
 
 ---
 
