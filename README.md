@@ -24,7 +24,7 @@ I enjoy solving complex business problems through clean architecture, automation
 
 ## 🔥 Featured Project
 
-### core: Stateless Read-Only API (Java 21 · Spring Boot · PostgreSQL)
+### [core](https://github.com/fabrizio-fatecha/core): Stateless Read-Only API (Java 21 · Spring Boot · PostgreSQL)
 
 A production-style REST API that I run on **AWS EC2**, fully containerized with **Docker** (nginx + Spring Boot + PostgreSQL).
 
@@ -47,6 +47,7 @@ Explore my projects by category:
 
 | Repository | Description | Stack |
 |---|---|---|
+| [core](https://github.com/fabrizio-fatecha/core) | Read-only API for a catalog of 50 million products, each with a plain numeric id | Java 21 · Spring Boot · PostgreSQL |
 | [nestjs](https://github.com/fabrizio-fatecha/nestjs) | NestJS experiments, backend patterns and API development | TypeScript · NestJS |
 | [node-server](https://github.com/fabrizio-fatecha/node-server) | Understanding HTTP requests and server communication | JavaScript · Node.js |
 | [docker](https://github.com/fabrizio-fatecha/docker) | Docker experiments and containerization practices | Docker · TypeScript |
