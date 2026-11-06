@@ -22,7 +22,7 @@ I enjoy solving complex business problems through clean architecture, automation
 
 ---
 
-## 🔥 Featured Project
+## 🔥 Featured Projects
 
 ### [core](https://github.com/fabrizio-fatecha/core): Stateless Read-Only API (Java 21 · Spring Boot · PostgreSQL)
 
@@ -35,6 +35,15 @@ A production-style REST API that I run on **AWS EC2**, fully containerized with 
 - Hardened following **OWASP API Security** practices: deny-by-default routing, a least-privilege read-only database role, query timeouts, rate limiting at the edge, and a distroless non-root image
 - Documented with **OpenAPI / Swagger UI**
 - Built on **Java 21** with virtual threads and records
+
+### [kubernetes](https://github.com/fabrizio-fatecha/kubernetes): Kubernetes by Example (C# · ASP.NET Core · PostgreSQL · Docker)
+
+Hands-on projects where I learn **Kubernetes** as a .NET developer, running on a local cluster with **Docker Desktop**. Every manifest is commented line by line.
+
+- **hello-k8s**: the basics, with experiments on self-healing pods, scaling and rolling updates, plus ConfigMaps and liveness/readiness probes
+- **stateless-app**: a read-only **ASP.NET Core** API over a **PostgreSQL** table of **80 million rows**, running as **3 identical pods** behind a Service
+- Uses **keyset pagination** and a **bounded connection pool per pod** (3 pods × 8 = 24 of PostgreSQL's 100 connections), so adding replicas does not exhaust the database
+- Credentials kept out of the image in a **Secret**, plus resource limits and a **non-root** container
 
 ---
 
@@ -67,6 +76,7 @@ Explore my projects by category:
 | [nginx](https://github.com/fabrizio-fatecha/nginx) | NGINX configuration and server fundamentals | NGINX |
 | [git](https://github.com/fabrizio-fatecha/git) | Git and GitHub version control practices | Git |
 | [docker](https://github.com/fabrizio-fatecha/docker) | Containerization and deployment experiments | Docker |
+| [kubernetes](https://github.com/fabrizio-fatecha/kubernetes) | Kubernetes projects in C#: pod basics, and a read-only API over 80 million PostgreSQL rows on 3 replicas | C# · Kubernetes · Docker · PostgreSQL |
 | [aws-tricks](https://github.com/fabrizio-fatecha/aws-tricks) | Shell script that lists the resources of an AWS account across regions | Shell · AWS CLI |
 | [minecraft-servers](https://github.com/fabrizio-fatecha/minecraft-servers) | Docker-based Minecraft server scripts for speedrunning with friends | Shell · Docker |
 
