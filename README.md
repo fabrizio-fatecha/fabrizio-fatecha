@@ -121,6 +121,7 @@ Explore my projects by category:
 | [javascript](https://github.com/fabrizio-fatecha/javascript) | JavaScript fundamentals and exercises | JavaScript |
 | [python](https://github.com/fabrizio-fatecha/python) | Python experiments and learning projects | Python |
 | [cs](https://github.com/fabrizio-fatecha/cs) | C# learning repository | C# |
+| [java](https://github.com/fabrizio-fatecha/java) | Java 21 course recap: OOP, collections, streams, records, file I/O and a small capstone app | Java 21 |
 | [leetcode](https://github.com/fabrizio-fatecha/leetcode) | Algorithm challenges and problem solving | JavaScript |
 | [typescript](https://github.com/fabrizio-fatecha/typescript) | TypeScript learning and experiments | TypeScript |
 
